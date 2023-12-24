@@ -31,7 +31,7 @@
 ## Get Started 🚀
 1. Clone the repository.
 2. Tailor the content in <b>index.html</b> to suit your needs.
-3. Customize images in `DemisoDaba.github.io/assets/img/` according to your preferences.
+3. Customize images in `DemisoDaba-Personal-Website/assets/img/` according to your preferences.
 4. Utilize [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) for hassle-free deployment.
 5. Create a GitHub repository named `<your-github-username>.github.io`.
 6. Push the modified code to the `master` branch of this repository.
