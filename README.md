@@ -48,7 +48,7 @@
 ✔️ **Contact Info**\
 ✔️ **Resume**
 
-Experience it live: **[Click Here](https://DemisoDaba.github.io/)**
+Experience it live: **[Click Here](https://demisodaba.github.io/DemisoDaba-Personal-Website/)**
 
 ---
 
